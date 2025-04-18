@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Music Theory",
+    "instructor": "Dr. Sarah Johnson",
+    "level": "Beginner",
+    "duration": "8 weeks",
+    "price": 99.99,
+    "category": "Music Theory",
+    "description": "Learn the fundamentals of music notation, scales, chords, and rhythm.",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Piano for Beginners",
+    "instructor": "Michael Chen",
+    "level": "Beginner",
+    "duration": "12 weeks",
+    "price": 149.99,
+    "category": "Instrumental",
+    "description": "Master basic piano techniques, finger exercises, and simple songs.",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Advanced Guitar Techniques",
+    "instructor": "James Rodriguez",
+    "level": "Advanced",
+    "duration": "10 weeks",
+    "price": 199.99,
+    "category": "Instrumental",
+    "description": "Explore complex chords, fingerstyle patterns, and improvisation.",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1549298240-0d8e60513026?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Electronic Music Production",
+    "instructor": "DJ Kaya",
+    "level": "Intermediate",
+    "duration": "6 weeks",
+    "price": 179.99,
+    "category": "Production",
+    "description": "Learn to create electronic music using Ableton Live and synthesizers. Many genres are.",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1496293455970-f8581aae0e3b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Vocal Training 101",
+    "instructor": "Emily Wilson",
+    "level": "Beginner",
+    "duration": "8 weeks",
+    "price": 129.99,
+    "category": "Vocal",
+    "description": "Develop proper breathing techniques, pitch control, and vocal range. Music theory is also covered.",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Jazz Improvisation",
+    "instructor": "Prof. Robert Davis",
+    "level": "Advanced",
+    "duration": "12 weeks",
+    "price": 249.99,
+    "category": "Music Theory",
+    "description": "Master the art of jazz improvisation and chord progressions. Music is not just about notes. It's about feeling.",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Songwriting Workshop",
+    "instructor": "Lisa Thompson",
+    "level": "Intermediate",
+    "duration": "6 weeks",
+    "price": 159.99,
+    "category": "Composition",
+    "description": "Learn techniques for writing lyrics and creating memorable melodies.",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1458560871784-56d23406c091?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Orchestration for Film",
+    "instructor": "David Park",
+    "level": "Advanced",
+    "duration": "10 weeks",
+    "price": 299.99,
+    "category": "Composition",
+    "description": "Learn to compose and arrange music for film and media projects.",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+  }
+]
