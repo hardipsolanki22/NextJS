@@ -3,6 +3,8 @@ import HeroSection from "@/components/HeroSection";
 import ScrollingCarts from "@/components/AllCarts";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import UpcomingWebinar from "@/components/UpcomingWebinar";
+import Instructors from "@/components/Instructors";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -13,6 +15,8 @@ export default function Home() {
       <WhyChooseUs />
       <ScrollingCarts />
       <UpcomingWebinar />
+      <Instructors/>
+      <Footer/>
     </main>
   );
 }

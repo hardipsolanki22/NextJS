@@ -5,20 +5,20 @@ import courseData from "../data/music.courses.json"
 import { BackgroundGradient } from './ui/background-gradient'
 import Link from 'next/link'
 
-function FeatureCourses() {
+interface Course {
+    id: number,
+    title: string,
+    instructor: string,
+    level: string,
+    duration: string,
+    price: number,
+    category: string,
+    description: string,
+    rating: number,
+    image: string
+}
 
-    interface Course {
-        id: number,
-        title: string,
-        instructor: string,
-        level: string,
-        duration: string,
-        price: number,
-        category: string,
-        description: string,
-        rating: number,
-        image: string
-    }
+function FeatureCourses() {
 
     return (
         <div className='flex flex-col items-center justify-center bg-cyan-950/55'>
