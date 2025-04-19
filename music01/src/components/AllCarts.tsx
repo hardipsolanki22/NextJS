@@ -1,6 +1,5 @@
 "use client";
 import { cn } from "@/lib/utils";
-import React, { useEffect, useState } from "react";
 import { InfiniteMovingCards } from "./ui/infinite-moving-cards";
 
 export default function ScrollingCarts() {
